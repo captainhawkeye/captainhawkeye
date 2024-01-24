@@ -8,7 +8,7 @@ DevOps & Site Reliability Engineer
 *   🖥️  See my portfolio at [here](http://captainhawkeye.in)
 *   ✉️  You can contact me at [thesrivastav.gm@gmail.com](mailto:thesrivastav.gm@gmail.com)
 *   🚀  I'm currently working on [A E2E CI/CD Project](http://#)
-*   🧠  I'm learning ArgoCD
+*   🧠  I'm learning ArgoCD & GoLang
 *   🤝  I'm open to collaborating on DevOps Solutions, Multi-Cloud Architectures and MERN
 *   ⚡  I'm BATMAN
 
