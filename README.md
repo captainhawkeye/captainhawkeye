@@ -8,7 +8,7 @@ I'm a Senior DevOps & Site Reliability Engineer.
 
 
 
-🧠 I'm currently learning GoLang & ArgoCD.
+🧠 I'm currently learning GoLang, ArgoCD & Datadog.
 
 📫 Connect with me : http://contact.captainhawkeye.in
 
